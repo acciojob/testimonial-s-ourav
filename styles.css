@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-#box{
+.Text{
 	width:80%;
 	height:40px;
 	border: 1px solid black;
@@ -7,12 +7,12 @@
 	padding:10px;
 }
 
-#author{
+.Author{
 	text-align:right;
 	font-style:italic;
 }
 
-#mainContainer{
+#MainContainer{
 	background-color:#f5f5f5;
 	padding:10px;
 	border:1px ;
